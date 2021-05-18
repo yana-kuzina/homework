@@ -1,0 +1,15 @@
+.button-pink {
+  border: 2px solid rgb(247, 7, 47);
+  border-radius: 7px;
+  background: pink;
+  width: 500px;
+  padding: 20px;
+}
+
+.button-green {
+  border: 2px solid rgb(1, 34, 1);
+  border-radius: 7px;
+  background: rgb(11, 241, 115);
+  width: 500px;
+  padding: 20px;
+}

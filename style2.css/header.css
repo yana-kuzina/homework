@@ -1,0 +1,55 @@
+.header {
+  position: fixed;
+  width: 100%;
+  background-color: thistle;
+  top: 0;
+  opacity: 0.95;
+}
+
+.container {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-logo {
+  float: left;
+  display: inline;
+  width: 120px;
+  padding: 0 5px;
+  border-radius: 100%;
+}
+
+.header-nav-item {
+  list-style: none;
+  padding: 0 20px;
+  margin: 0;
+  display: inline-block;
+}
+
+.header-nav-link {
+  text-decoration: none;
+  color: rgb(7, 2, 0);
+  font-weight: bold;
+}
+
+.button {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.button-pink {
+  border: 2px solid rgb(247, 7, 47);
+  border-radius: 20px;
+  color: rgb(12, 12, 12);
+  background: pink;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.button-phone {
+  width: 80px;
+  border-radius: 100%;
+  height: auto;
+  
+}

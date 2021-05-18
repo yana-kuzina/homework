@@ -1,0 +1,60 @@
+.date {
+  padding-top: 175px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iLYHJ7Phvu3NhUXyLUlreO1YfDG4kU2Tcg&usqp=CAU);
+  background-repeat: no-repeat;
+  padding-bottom: 50px;
+  padding-right: 30px;
+  padding-left: 30px;
+  -moz-background-size:100%;
+  -webkit-background-size:100%;
+  -o-background-size:100%;
+  background-size:100%;
+}
+
+.w-tabs-list-item {
+  border: 2px solid red;
+  border-radius: 100%;
+  padding: 35px;
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+}
+
+.date a:hover {
+  background-color: rgb(250, 9, 9);
+ }
+
+ .img {
+   width: 450px;
+   height: auto;
+ }
+
+ .kids_party {
+   margin-top: 20px;
+   border: 1px solid red;
+   padding: 25px;
+   text-align: center;
+ }
+
+.programs {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iLYHJ7Phvu3NhUXyLUlreO1YfDG4kU2Tcg&usqp=CAU);
+  background-repeat: no-repeat;
+  -moz-background-size:100%;
+  -webkit-background-size:100%;
+  -o-background-size:100%;
+  background-size:100%;
+}
+
+.date2 a:hover {
+  background-color: rgb(250, 8, 8);
+}
+
+.intro-logo {
+  height: auto;
+  margin-bottom: 40px;
+}
+
+.intro-logo img {
+  height: 100px;
+}

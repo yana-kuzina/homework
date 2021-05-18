@@ -1,0 +1,18 @@
+.container {
+  max-width: 940px;
+  margin: 50px;
+  background: grey;
+}
+
+.img {
+  padding: 5px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text-center {
+  text-align: center;
+}
